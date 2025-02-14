@@ -1,2 +1,2 @@
-# Beaty-Zone
-Genius.space Homework
+# Project Management
+Genius.space
