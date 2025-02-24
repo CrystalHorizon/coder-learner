@@ -4,20 +4,26 @@
   box-sizing: border box;
   font-family: poppins;
 }
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #ff931e;
+}
 
 :root {
   --brand: #3c7877;
   --brand-dark: #111c52;
 }
 /* .parent { h645+w80%+p40+psa+t50%+left50%+transform:translate-50%-50% }*/
-.parent{
-    height: 645px;
-width: 80%;
-padding: 40px;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate -50% -50%;
-background-color: white;
-box-shadow:5px 5px 50px black;
+.parent {
+  height: 80%;
+  width: 80%;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  /* position: relative; */
+  box-shadow: 5px 5px 50px black;
 }
