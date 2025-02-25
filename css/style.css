@@ -27,3 +27,8 @@ body {
   /* position: relative; */
   box-shadow: 5px 5px 50px black;
 }
+
+.parent::before {
+
+    /* psa+t0+l0+w100%+h100%+bgi-url+bgr-nr+bgp-center+bgs-c+z-1}  */
+}
