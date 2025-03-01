@@ -43,7 +43,19 @@ body {
     z-index: -1;
 }
 
-.parent nav {
+.parent nav, .parent nav ul {
     display: flex;
     justify-content: space-between;
 }
+
+nav a{
+  font-size: 25px;
+  font-weight: 400;
+  color: #50a48d;
+  text-decoration:none;
+  text-decoration: uppercase;
+}
+/* nav a {fsz25+fw400+c#50a48d+td-uppercase} */
+
+nav span {font-weight: 600;
+color: rgb(41, 11, 101);}
