@@ -70,3 +70,15 @@ nav a {
 /* tdn+p5-25+c-white+tt-upp+fw400 */
 
 nav a {color: yellow;}
+
+.left {width: 40%;}
+
+.left h1{
+  font-style: 70px;
+  margin-top: 50px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: var(--brand);
+  text-transform: uppercase;
+}
+/* .left h1{fs70+mt50+fw600+ls1} */
