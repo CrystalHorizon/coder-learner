@@ -91,3 +91,8 @@ nav a {color: yellow;}
   color: #111c52;
 }
 /* m10-0+ls5+fw500+ttup+c#111c52 */
+
+.left p {
+  font-size: 18px;
+  color: var(--brand-dark);
+}
