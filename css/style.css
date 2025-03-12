@@ -126,3 +126,7 @@ nav a {color: yellow;}
   text-transform: uppercase;
   transition: 0.4s ease;
 }
+
+.left button:hover {
+  background-position: right center;
+}
